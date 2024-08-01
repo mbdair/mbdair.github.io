@@ -19,12 +19,12 @@ locale                   : "en-US"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Mohammad Bdair"
 title_separator          : "-"
-subtitle                 : "Researcher, Computer Scientist, and Engineer"
+subtitle                 : "Researcher, Computer Scientist, and Inventor"
 name                     : "Mohammad Jamal Bdair"
 description              : "Researcher with expertise in Data Science, Machine Learning, and AI."
-url                      : "https://mohammadbdair.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mbdair.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mohammadbdair/repo-name" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "/mbdair.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,37 +32,37 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : false # true, false (default)
 copyright                : "Mohammad Jamal Bdair" # "copyright" name, defaults to site.title
-copyright_url            : "https://mohammadbdair.github.io" # "copyright" URL, defaults to site URL
+copyright_url            : "https://mbdair.github.io" # "copyright" URL, defaults to site URL
 
 # Author Settings
 author:
   name           : "Mohammad Jamal Bdair"
   avatar         : "/images/avatar.jpg" # path of avatar image, e.g. "/images/avatar.jpg"
-  bio            : "Researcher, Computer Scientist, and Engineer with a Master’s degree in Data Science from the University of East London and a B.Sc in Mechatronics Engineering from the University of Jordan."
+  bio            : "Researcher, Computer Scientist, and Machine Learning Engineer with a Master’s degree in Data Science from the University of East London and a B.Sc in Mechatronics Engineering from the University of Jordan."
   location       : "London, UK"
-  email          : "your-email@example.com"
-  uri            : "https://mohammadbdair.github.io"
+  email          : "mr.bdair@gmail.com"
+  uri            : "https://bdair.tech"
   twitter        : "your-twitter-handle"
   linkedin       : "your-linkedin-profile"
-  github         : "your-github-username"
-  scholar        : "your-google-scholar-profile"
-  researchgate   : "your-researchgate-profile"
-  orcid          : "your-orcid-id"
+  github         : "mbdair"
+  scholar        : "https://scholar.google.com/citations?user=G2WG72UAAAAJ&hl=en&oi=sra"
+  researchgate   : "https://www.researchgate.net/profile/Mohammad-Bdair-2"
+  orcid          : "https://orcid.org/0009-0006-1711-4671"
 
 # Site Author
 author:
   name        : "Mohammad Jamal Bdair"
   avatar      : "/images/avatar.jpg"
-  bio         : "Researcher, Computer Scientist, and Engineer with a Master’s degree in Data Science and a B.Sc in Mechatronics Engineering."
+  bio         : "Researcher, Computer Scientist, and Inventor with a Master’s degree in Data Science and a B.Sc in Mechatronics Engineering."
   location    : "London, UK"
-  email       : "your-email@example.com"
-  uri         : "https://mohammadbdair.github.io"
+  email       : "mr.bdair@gmail.com"
+  uri         : "https://mbdair.github.io"
   twitter     : "your-twitter-handle"
   linkedin    : "your-linkedin-profile"
-  github      : "your-github-username"
-  scholar     : "your-google-scholar-profile"
-  researchgate: "your-researchgate-profile"
-  orcid       : "your-orcid-id"
+  github      : "mbdair"
+  scholar     : "https://scholar.google.com/citations?user=G2WG72UAAAAJ&hl=en&oi=sra"
+  researchgate: "https://www.researchgate.net/profile/Mohammad-Bdair-2"
+  orcid       : "https://orcid.org/0009-0006-1711-4671"
 
 # Disqus Comments
 disqus:
